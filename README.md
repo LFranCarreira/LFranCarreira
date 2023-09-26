@@ -33,4 +33,4 @@
 
 <hr>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lfrancarreira)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-291-blue)
