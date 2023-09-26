@@ -15,9 +15,7 @@
 
 <hr>
 
-
 ## ⚡ Technologies
-
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-808080?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -32,3 +30,7 @@
 ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+<hr>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=lfrancarreira)
