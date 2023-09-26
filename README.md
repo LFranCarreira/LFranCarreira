@@ -1,3 +1,4 @@
+
 👋 Hi, I’m @LFranCarreira.
 👀 I’m interested in programming, problem-solving, AI, and learning new technologies.
 🌱 I’m currently learning new programming languages, AWS, and how to play the piano.
