@@ -4,7 +4,6 @@
 🌱 I’m currently learning new programming languages, AWS, and how to play the piano.
 💞️ I’m looking to collaborate on open-source projects and exciting coding challenges.
 
-
 <hr>
 
 ## 📫 Contact Me
