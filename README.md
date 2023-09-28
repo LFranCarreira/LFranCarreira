@@ -2,7 +2,7 @@
 <h1>👋 Hi, I’m @LFranCarreira.</h1>
 <h2>👀 I’m interested in programming, problem-solving, AI, and learning new technologies.</h2>
 <h2>🌱 I’m currently learning AWS, and how to play the piano.</h2>
-💞️ I’m searching for a position as a Full Stack Developer or BackEnd Developer.
+<h2>💞️ I’m searching for a position as a Full Stack Developer or BackEnd Developer.</h2>
 
 <hr>
 
