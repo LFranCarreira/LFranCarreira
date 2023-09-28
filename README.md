@@ -5,6 +5,7 @@
 💞️ I’m searching for a position as a Full Stack Developer or BackEnd Developer.
 
 <hr>
+
 ## 📫 Contact Me
 
 [![Gmail Badge](https://img.shields.io/badge/-carreirafranco@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:carreirafranco@gmail.com)](mailto:carreirafranco@gmail.com)
