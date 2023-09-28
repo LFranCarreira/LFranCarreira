@@ -1,5 +1,4 @@
 
-
 <h2>👋 Hi, I’m @LFranCarreira.</h2>
 
 <h4>👀 I’m interested in programming, problem-solving, AI, and learning new technologies.</h4>
