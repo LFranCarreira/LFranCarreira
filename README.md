@@ -1,4 +1,4 @@
-<hr>
+
 
 <h2>👋 Hi, I’m @LFranCarreira.</h2>
 
