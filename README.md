@@ -36,3 +36,4 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 <hr>
+<img  src="https://github-readme-stats.vercel.app/api?username=LFranCarreira&show_icons=true&theme=radical" width="45%" align="right" >
