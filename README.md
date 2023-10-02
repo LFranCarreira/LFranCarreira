@@ -36,4 +36,4 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 <hr>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=LFranCarreira&theme=dark" width="100%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=LFranCarreira&theme=dark" width="75%" >
