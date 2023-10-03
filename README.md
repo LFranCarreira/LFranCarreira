@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a Full Stack Devloper from Argentina ❤</h3>
 
-<h4>👀 I’m interested in programming, problem-solving, AI, and learning new technologies.</h4>
+<h4 align="center">👀 I’m interested in programming, problem-solving, AI, and learning new technologies.</h4>
 
 <h4>🌱 I’m currently learning AWS and how to play the piano.</h4>
 
