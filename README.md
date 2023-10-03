@@ -11,7 +11,7 @@
 <hr>
 
 ## 📫 Contact Me
-<div display="flex" align="center" justify-content="space-around">
+<div style="display: flex; justify-content: space-around; align-items: center;">
 
 [![Gmail Badge](https://img.shields.io/badge/-carreirafranco@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:carreirafranco@gmail.com)](mailto:carreirafranco@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-francocarreira-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franco-carreira-243b6523b)](https://www.linkedin.com/in/franco-carreira-243b6523b)
