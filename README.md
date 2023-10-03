@@ -1,4 +1,5 @@
 <div align="center">
+
   <h1> Hello, I'm Franco Carreira 👋! </h1>
 
   <h3>I'm a Full Stack Devloper from Argentina ❤</h3>
@@ -8,7 +9,9 @@
   <h4>🌱 I’m currently learning AWS and how to play the piano.</h4>
 
   <h4>💞️ I’m searching for a position as a Full Stack Developer or BackEnd Developer.</h4>
+
 </div>
+
 <hr>
 
 ## 📫 Contact Me
