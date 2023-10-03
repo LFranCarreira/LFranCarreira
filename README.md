@@ -3,7 +3,9 @@
   <h1> Hello, I'm Franco Carreira 👋! </h1>
 
   <h2>I'm a Full Stack Devloper from Argentina ❤</h3>
-
+  
+  <hr>
+  
   <h3>👀 I’m interested in programming, problem-solving, AI, and learning new technologies.</h4>
 
   <h3>🌱 I’m currently learning AWS and how to play the piano.</h4>
