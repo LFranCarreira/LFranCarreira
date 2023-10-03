@@ -2,13 +2,13 @@
 
   <h1> Hello, I'm Franco Carreira 👋! </h1>
 
-  <h3>I'm a Full Stack Devloper from Argentina ❤</h3>
+  <h2>I'm a Full Stack Devloper from Argentina ❤</h3>
 
-  <h4>👀 I’m interested in programming, problem-solving, AI, and learning new technologies.</h4>
+  <h3>👀 I’m interested in programming, problem-solving, AI, and learning new technologies.</h4>
 
-  <h4>🌱 I’m currently learning AWS and how to play the piano.</h4>
+  <h3>🌱 I’m currently learning AWS and how to play the piano.</h4>
 
-  <h4>💞️ I’m searching for a position as a Full Stack Developer or BackEnd Developer.</h4>
+  <h3>💞️ I’m searching for a position as a Full Stack Developer or BackEnd Developer.</h4>
 
 </div>
 
