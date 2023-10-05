@@ -12,7 +12,8 @@
   
 </div>
 
-<hr>
+
+
 <div align="center">
 
   ## 📫 Contact Me
