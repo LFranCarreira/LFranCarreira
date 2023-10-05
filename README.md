@@ -20,7 +20,6 @@
 
 </div>
 
-
 <div justify="space-between" align="center">
   
   [![Gmail Badge](https://img.shields.io/badge/-carreirafranco@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:carreirafranco@gmail.com)](mailto:carreirafranco@gmail.com)
