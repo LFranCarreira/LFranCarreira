@@ -56,7 +56,7 @@
 
 <div align="center">
 
-  ## Github stats
+  ## 🏆 Github stats
 
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=LFranCarreira&theme=dark" width="45%" >
 </div>
