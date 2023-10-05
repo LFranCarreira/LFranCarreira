@@ -11,8 +11,10 @@
 </div>
 
 <hr>
+<div align="center">
+  ## 📫 Contact Me
+</div>
 
-## 📫 Contact Me
 
 <div display="flex" align="center">
   
