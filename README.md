@@ -28,8 +28,11 @@
   [![Website Badge](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lfrancarreiraportfolio.vercel.app/)
 </div>
 <hr>
-
+<div align="center">
+  
 ## ⚡ Technologies
+  
+</div>
 <div display="flex" align="center"
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-808080?style=for-the-badge&logo=javascript)
