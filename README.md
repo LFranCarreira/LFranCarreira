@@ -37,7 +37,7 @@
   
 </div>
 
-<div display="flex" align="center"
+<div display="flex" justify="space-between" align="center"
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-808080?style=for-the-badge&logo=javascript)
   
