@@ -8,6 +8,7 @@
 
   <h3>🌱 I’m currently learning AWS and how to play the piano.</h3>
 
+
   <h3>💞️ I’m searching for a position as a Full Stack Developer or BackEnd Developer.</h3>
   
 </div>
