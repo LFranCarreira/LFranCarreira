@@ -20,7 +20,7 @@
 
 </div>
 
-<div align="center" padding="10px">
+<div align="center" margin="10px">
   
   [![Gmail Badge](https://img.shields.io/badge/-carreirafranco@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:carreirafranco@gmail.com)](mailto:carreirafranco@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/-francocarreira-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franco-carreira-243b6523b)](https://www.linkedin.com/in/franco-carreira-243b6523b)
