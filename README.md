@@ -65,6 +65,6 @@
 </div>
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=lfrancarreira&theme=onedark&rank=SSS,SS,S,AAA,AA,A)](https://github.com/lfrancarreira/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=lfrancarreira&theme=gruvbox&no-frame=true&rank=SSS,SS,S,AAA,AA,A)](https://github.com/lfrancarreira/github-profile-trophy)
 </div>
  
