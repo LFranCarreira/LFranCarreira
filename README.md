@@ -2,7 +2,10 @@
   
   <h1> Hello, I'm Franco Carreira 👋! </h1>
   
-  <h2>I'm a Full Stack Devloper from Argentina ❤</h2>
+  <h2>I'm a Full Stack Devloper from Argentina 
+    
+  ![image](https://github.com/LFranCarreira/LFranCarreira/assets/131739020/e74c59fd-b1e8-4c67-888c-6422231fcfc4)
+</h2>
   
   <h3>👀 I’m interested in programming, problem-solving, AI, and learning new technologies.</h3>
 
