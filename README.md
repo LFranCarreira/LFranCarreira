@@ -61,8 +61,8 @@
   ## 🏆 Github stats
 
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=LFranCarreira&theme=dark" width="45%" >
-  <div>
-    
-    [![trophy](https://github-profile-trophy.vercel.app/?username=lfrancarreira&theme=onedark)](https://github.com/lfrancarreira/github-profile-trophy)
+  <div> 
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&rank=SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
   </div>
 </div>
