@@ -62,8 +62,6 @@
 
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=LFranCarreira&theme=dark" width="45%" >
   <div>
-
-    [![trophy](https://github-profile-trophy.vercel.app/?username=lfrancarreira&theme=onedark&rank=S,A,AA,AAA)](https://github.com/lfrancarreira/github-profile-trophy)
-
+    [![trophy](https://github-profile-trophy.vercel.app/?username=lfrancarreira&theme=onedark)](https://github.com/lfrancarreira/github-profile-trophy)
   </div>
 </div>
