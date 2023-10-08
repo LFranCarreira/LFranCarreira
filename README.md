@@ -52,4 +52,3 @@
   
   ![image](https://github.com/LFranCarreira/LFranCarreira/assets/131739020/11861a09-d3c2-4c9c-825e-e800cd34a56d)
 </div>
-
