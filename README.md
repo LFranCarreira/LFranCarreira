@@ -64,5 +64,8 @@
     
   [![trophy](https://github-profile-trophy.vercel.app/?username=lfrancarreira&theme=gruvbox&no-frame=true&rank=SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15)](https://github.com/lfrancarreira/github-profile-trophy)
 </div>
+<div align="center">
+  
+  ![image](https://github.com/LFranCarreira/LFranCarreira/assets/131739020/11861a09-d3c2-4c9c-825e-e800cd34a56d)
+</div>
 
-![image](https://github.com/LFranCarreira/LFranCarreira/assets/131739020/11861a09-d3c2-4c9c-825e-e800cd34a56d)
