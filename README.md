@@ -19,11 +19,9 @@
 </div>
 
 <hr>
-
 <div align="center">
   
 ## ⚡ Technologies
-  
 </div>
 
 <div  align="center">
