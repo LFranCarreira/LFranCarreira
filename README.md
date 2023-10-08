@@ -23,7 +23,6 @@
   
 ## ⚡ Technologies
 </div>
-
 <div  align="center">
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-808080?style=for-the-badge&logo=javascript)
@@ -41,11 +40,9 @@
   ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 </div>
 <hr>
-
 <div align="center">
 
   ## 🏆 Github stats
-
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=LFranCarreira&theme=dark" width="45%" >
     
   [![trophy](https://github-profile-trophy.vercel.app/?username=lfrancarreira&theme=gruvbox&no-frame=true&rank=SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15)](https://github.com/lfrancarreira/github-profile-trophy)
