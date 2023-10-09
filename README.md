@@ -53,7 +53,7 @@
 <div align="center">
 
   ## 💾 Latest Repo
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lfrancarreira&repo=github-readme-stats)](https://github.com/lfrancarreira/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lfrancarreira&repo=PF-HyperEvent)](https://github.com/lfrancarreira/PF-HyperEvent)
 </div>
 <hr>
 <div align="center">
