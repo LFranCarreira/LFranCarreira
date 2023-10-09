@@ -42,11 +42,11 @@
   ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 </div>
 <hr>
-<div align="center" justify-content="space-between">
+<div align="center">
 
   ## 🏆 Github stats
   [![lfrancarreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfrancarreira&hide=stars&show_icons=true&theme=dark)](https://github.com/lfrancarreira/github-readme-stats)
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=LFranCarreira&theme=dark" width="45%" >
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=LFranCarreira&theme=dark" width="45%" height="45%" margin="5%">
     
   [![trophy](https://github-profile-trophy.vercel.app/?username=lfrancarreira&theme=gruvbox&no-frame=true&rank=SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15)](https://github.com/lfrancarreira/github-profile-trophy)
 </div>
