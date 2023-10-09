@@ -42,7 +42,7 @@
   ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 </div>
 <hr>
-<div align="center">
+<div align="center" justify="space-between">
 
   ## 🏆 Github stats
   [![lfrancarreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfrancarreira&hide=stars&show_icons=true&theme=dark)](https://github.com/lfrancarreira/github-readme-stats)
