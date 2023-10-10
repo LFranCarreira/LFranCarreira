@@ -62,14 +62,19 @@
   </h2>
   
 </div>
+
 <hr>
+
 <div align="center">
   
   ## 💼 Portfolio
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lfrancarreira&repo=portfolio)](https://github.com/lfrancarreira/portfolio)
-  
-  <a href="https://lfrancarreiraporfolio.vercel.app/" target="_blank" rel="noopener">Portfolio link</a>
+
+  <h1>
+      <a href="https://lfrancarreiraporfolio.vercel.app/" target="_blank" rel="noopener">Portfolio link</a>
+  </h1>
+
 </div>
 <hr>
 <div align="center">
