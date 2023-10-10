@@ -58,7 +58,7 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyor10&repo=PF-HyperEvent)](https://github.com/cyor10/PF-HyperEvent)
 
   <h2>
-    <a href="https://hyperevent-fe.vercel.app/" target="_blank">Project link</a>
+    <a href="https://hyperevent-fe.vercel.app/" target="_blank" rel="noopener">Project link</a>
   </h2>
   
 </div>
