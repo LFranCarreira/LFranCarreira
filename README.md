@@ -56,7 +56,8 @@
 
   ## 💾 Latest Repo
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyor10&repo=PF-HyperEvent)](https://github.com/cyor10/PF-HyperEvent)
-  <a href="https://hyperevent-fe.vercel.app/">Link to the project</a>
+  
+  <a href="https://hyperevent-fe.vercel.app/"><h1>Link to the project</h1></a>
 </div>
 <hr>
 <div align="center">
