@@ -66,9 +66,10 @@
 <div align="center">
   ## 💼 Portfolio
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyor10&repo=PF-HyperEvent)](https://github.com/cyor10/PF-HyperEvent)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lfrancarreira&repo=portfolio)](https://github.com/lfrancarreira/portfolio)
+  <a href="https://lfrancarreiraporfolio.vercel.app/" target="_blank" rel="noopener">Portfolio link</a>
 </div>
 <hr>
 <div align="center">
   
-[![Gif](https://www.lambdatest.com/resources/images/news24.gif)](https://lfrancarreira.io)
+[![Gif](https://www.lambdatest.com/resources/images/news24.gif)](https://lfrancarreiraportfolio.vercel.app)
