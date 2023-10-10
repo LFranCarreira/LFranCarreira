@@ -70,5 +70,5 @@
 <hr>
 <div align="center">
   
-  ![image](https://github.com/LFranCarreira/LFranCarreira/assets/131739020/11861a09-d3c2-4c9c-825e-e800cd34a56d)
+  ![Gif]([https://github.com/LFranCarreira/LFranCarreira/assets/131739020/11861a09-d3c2-4c9c-825e-e800cd34a56d](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsudoshivesh&psig=AOvVaw08Kgj5Wgpe4SXkAJTswB2L&ust=1697061848828000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICxr6W-7IEDFQAAAAAdAAAAABA3)https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsudoshivesh&psig=AOvVaw08Kgj5Wgpe4SXkAJTswB2L&ust=1697061848828000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICxr6W-7IEDFQAAAAAdAAAAABA3)
 </div>
