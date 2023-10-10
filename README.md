@@ -23,7 +23,7 @@
 <hr>
 <div align="center">
   
-## ⚡ Technologies
+## ⚡ Tech Stack
 </div>
 <div  align="center">
 
