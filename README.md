@@ -64,6 +64,11 @@
 </div>
 <hr>
 <div align="center">
+  ## 💼 Portfolio
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyor10&repo=PF-HyperEvent)](https://github.com/cyor10/PF-HyperEvent)
+</div>
+<hr>
+<div align="center">
   
   ![image](https://github.com/LFranCarreira/LFranCarreira/assets/131739020/11861a09-d3c2-4c9c-825e-e800cd34a56d)
 </div>
