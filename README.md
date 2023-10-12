@@ -34,6 +34,7 @@
 ## ⚡ Tech Stack
 
 </div>
+
 <div  align="center">
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-808080?style=for-the-badge&logo=javascript)
