@@ -63,6 +63,8 @@
 
   ## 🏆 Github stats 🎖
   [![lfrancarreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfrancarreira&hide=stars&show_icons=true&theme=dark)](https://github.com/lfrancarreira/github-readme-stats)
+
+  <hr>
   
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=LFranCarreira&theme=dark" width="48%" >
   
