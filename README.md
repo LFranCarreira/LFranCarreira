@@ -35,7 +35,7 @@
 
 </div>
 
-<div  align="center">
+<div align="center">
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-808080?style=for-the-badge&logo=javascript)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -64,7 +64,7 @@
 <hr>
 <div align="center">
 
-  ## 💾 Latest Repo
+  ## 💾 Latest Repo 💾
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyor10&repo=PF-HyperEvent)](https://github.com/cyor10/PF-HyperEvent)
 
