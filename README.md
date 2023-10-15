@@ -2,7 +2,6 @@
   
   <h1>Hello, I'm Franco Carreira 👋!</h1>
 
-  
   <h2>I'm a Full Stack Devloper from Argentina ❤</h2>
 
   
