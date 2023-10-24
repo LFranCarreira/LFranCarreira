@@ -87,6 +87,8 @@
 <div align="center">
   
   ## 🛠 Another Project 🛠
+
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lfrancarreira&repo=calculator)](https://github.com/lfrancarreira/calculator)
 </div>
 <hr>
 <div align="center">
