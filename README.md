@@ -88,6 +88,7 @@
 </div>
 
 <hr>
+
 <div align="center">
   
   ## 🛠 Another Project 🛠
