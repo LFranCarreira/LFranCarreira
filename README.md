@@ -79,6 +79,7 @@
   ## 💼 Portfolio 💼
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lfrancarreira&repo=portfolio)](https://github.com/lfrancarreira/portfolio)
+  
   <h2>
       <a href="https://lfrancarreiraportfolio.vercel.app/" target="_blank" rel="noopener">
         Portfolio link
