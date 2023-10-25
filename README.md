@@ -6,6 +6,7 @@
   <h3>💞️ I’m searching for a position as a Full Stack Developer or BackEnd Developer 👨‍💻 </h3> 
 </div>
 <hr>
+
 <div align="center">
 
   ## 📫 Contact Me ✉
