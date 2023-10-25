@@ -102,6 +102,7 @@
   
 </div>
 <hr>
+
 <div align="center">
   
   [![Gif](https://www.lambdatest.com/resources/images/news24.gif)](https://lfrancarreiraportfolio.vercel.app)
