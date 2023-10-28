@@ -93,7 +93,6 @@
     <a href="https://lfrancarreiraportfolio.vercel.app/" target="_blank" rel="noopener">
         Portfolio link
     </a>
-      
   </h2>
 
 </div>
