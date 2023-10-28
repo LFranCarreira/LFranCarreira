@@ -26,7 +26,9 @@
   [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/LFranCarreira)](https://github.com/LFranCarreira)
   [![Website Badge](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lfrancarreiraportfolio.vercel.app/)
 </div>
+
 <hr>
+
 <div align="center">
   
 ## ⚡ Tech Stack ⚡
