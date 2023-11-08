@@ -45,9 +45,7 @@
   ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
   
 </div>
-
 <hr>
-
 <div align="center">
 
   ## 🏆 Github stats 🎖
