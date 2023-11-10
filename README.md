@@ -80,7 +80,6 @@
   </h2>
 </div>
 <hr>
-
 <div align="center">
   
   ## 🛠 Another Project 🛠
@@ -90,13 +89,9 @@
   <h2>
     <a href="https://lfrancarreira-calculator.vercel.app/" target="_blank" rel="noopener">Project link</a>
   </h2>
-  
 </div>
-
 <hr>
-
 <div align="center">
   
   [![Gif](https://www.lambdatest.com/resources/images/news24.gif)](https://lfrancarreiraportfolio.vercel.app)
-  
 </div>
