@@ -10,7 +10,6 @@
 
   ## 📫 Contact Me ✉
 </div>
-
 <div align="center">
   
   [![Gmail Badge](https://img.shields.io/badge/-carreirafranco@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:carreirafranco@gmail.com)](mailto:carreirafranco@gmail.com)
