@@ -19,7 +19,6 @@
   
 </div>
 <hr>
-
 <div align="center">
   
 ## ⚡ Tech Stack ⚡
