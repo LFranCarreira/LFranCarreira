@@ -84,7 +84,6 @@
   ## 🛠 Another Project 🛠
 
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lfrancarreira&repo=calculator)](https://github.com/lfrancarreira/calculator)
-
   <h2>
     <a href="https://lfrancarreira-calculator.vercel.app/" target="_blank" rel="noopener">Project link</a>
   </h2>
