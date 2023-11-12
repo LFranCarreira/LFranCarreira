@@ -43,14 +43,11 @@
   ## 🏆 Github stats 🎖
 
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=LFranCarreira&theme=dark" width="48%" >
-  
   <hr>
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=lfrancarreira&theme=gruvbox&no-frame=true&rank=SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15)](https://github.com/lfrancarreira/github-profile-trophy)
-  
 </div>
 <hr>
-
 <div align="center">
 
   ## 💾 Latest Project 💾
