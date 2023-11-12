@@ -37,7 +37,6 @@
   ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
   ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
-  
 </div>
 <hr>
 <div align="center">
