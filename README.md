@@ -41,7 +41,6 @@
 <div align="center">
 
   ## 🏆 Github stats 🎖
-
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=LFranCarreira&theme=dark" width="48%" >
   <hr>
   
